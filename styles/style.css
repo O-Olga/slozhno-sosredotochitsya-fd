@@ -202,6 +202,10 @@
   font-weight: 400;
 }
 
+.images__title{
+  color: var(--font-color-image-headline);
+}
+
 .images {
   gap: 10px;
   padding-bottom: 40px;
@@ -291,6 +295,8 @@
   }
 
   .content__block {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
 
@@ -303,8 +309,7 @@
   }
 
   .content__block {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
+
   }
 
   .content__title {
@@ -315,10 +320,6 @@
   .ans_item {
     grid-column: 2;
     margin: 0;
-  }
-
-  .content__title {
-    grid-column: 1;
   }
 
   .causes__title,
