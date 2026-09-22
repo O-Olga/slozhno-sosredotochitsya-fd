@@ -202,7 +202,7 @@
   font-weight: 400;
 }
 
-.images__title{
+.images__title {
   color: var(--font-color-image-headline);
 }
 
@@ -306,10 +306,6 @@
 
   .causes {
     padding-top: 60px;
-  }
-
-  .content__block {
-
   }
 
   .content__title {
