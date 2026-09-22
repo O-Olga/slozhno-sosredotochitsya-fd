@@ -10,7 +10,7 @@
   --font-size-title-deks: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
 
   --bg-image: url(../images/cover-image-dark.png);
-  --bg-color-default: #000028;
+  --bg-color: #000028;
   --accent-color: #ff0070;
   --font-color-headline: #ff0070;
   --font-color-image-headline: #000028;
