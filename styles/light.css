@@ -27,7 +27,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root{
+  :root {
     --bg-color: #fff1f7;
     --accent-color: #ff8dcb;
     --font-color-headline: #353430;
